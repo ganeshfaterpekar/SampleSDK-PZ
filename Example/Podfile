@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SampleSDK-PZ_Example' do
+  pod 'SampleSDK-PZ', :path => '../'
+
+  target 'SampleSDK-PZ_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
