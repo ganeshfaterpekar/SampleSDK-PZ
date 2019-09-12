@@ -1,0 +1,16 @@
+PODS:
+  - SampleSDK-PZ (0.1.0)
+
+DEPENDENCIES:
+  - SampleSDK-PZ (from `../`)
+
+EXTERNAL SOURCES:
+  SampleSDK-PZ:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleSDK-PZ: 476fa65bb124cf04d1d0cd1f9f2bfa096cedd02e
+
+PODFILE CHECKSUM: ef332797eaddfaecbb41cac16c9d867c892adddd
+
+COCOAPODS: 1.6.1

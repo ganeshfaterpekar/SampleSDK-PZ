@@ -1,0 +1,22 @@
+{
+  "name": "SampleSDK-PZ",
+  "version": "0.1.0",
+  "summary": "A short description of SampleSDK-PZ.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ganeshfaterpekar/SampleSDK-PZ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ganeshfaterpekar": "ganeshfaterpekar@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ganeshfaterpekar/SampleSDK-PZ.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SampleSDK-PZ/Classes/**/*"
+}
